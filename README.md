@@ -1,5 +1,4 @@
 # ide-gila-bisnis
-Berikut adalah contoh file `README.md` untuk proyek platform pencarian dan pembelian foto bagi pesepeda:
 
 ```markdown
 # CycleSnap
