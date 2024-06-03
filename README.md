@@ -79,7 +79,7 @@ Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untu
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami di [email@example.com](mailto:email@example.com).
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami di [CycleSnap@gmail.com](mailto:CycleSnap@example.com).
 
 ```
 
