@@ -15,7 +15,7 @@ CycleSnap adalah platform yang memungkinkan pesepeda untuk menemukan dan membeli
 
 ## Teknologi yang Digunakan
 
-- **Frontend**: React, Vue, atau Angular
+- **Frontend**: React js, Vue, atau Angular
 - **Backend**: Node.js, Django, atau Ruby on Rails
 - **Database**: PostgreSQL atau MongoDB
 - **Image Recognition**: TensorFlow, OpenCV, atau AWS Rekognition
