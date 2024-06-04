@@ -25,7 +25,7 @@ CycleSnap adalah platform yang memungkinkan pesepeda untuk menemukan dan membeli
 
 1. Clone repositori ini:
     ```bash
-    git clone https://github.com/username/cyclesnap.git
+    git clone https://github.com/bintangdemarta/ide-gila-bisnis
     ```
 
 2. Masuk ke direktori proyek:
